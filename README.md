@@ -1,5 +1,5 @@
 # telecom-analysis
-# Proyecto 7 — Análisis de una empresa de telecomunicaciones
+# Proyecto 6 — Análisis de una empresa de telecomunicaciones
 
 ## Objetivo del proyecto
 El objetivo de este proyecto es analizar el comportamiento de uso de los clientes de **ConnectaTel**, una empresa de telecomunicaciones con operaciones en México y Colombia.
